@@ -1,0 +1,22 @@
+For this project, you should find a data science job posting on a job board of your choice, such as LinkedIn, Indeed, Zip Recruiter, Glassdoor, Monster, Naukri, or USAjobs.gov, that interests you.
+
+Analyze the posting by responding to the following questions and statements. You do not need to submit your responses. This is an exercise to familiarize yourself with actual data science related jobs.
+
+Identify the following aspects of data science job post:
+
+What is the company name that is advertising the job?
+a)pay u
+What is the job title?
+a)data scientist
+Where is the role located?
+a)bengaluru
+What is the expected salary or salary range?
+25.7 lpa
+What is the total number of results from the search for the job post?
+50
+What is one technical responsibility from the job post related to something you learned about in this course?
+working on bigdata to develop analytical solutions
+What are two required technical skills from the job post?
+machine learning,SQL
+What are at least two ideas or concepts you learned about in this course relevant to these job posts?
+dive into the data and identify paaterns,working on bigdata to develop analytical solutions
